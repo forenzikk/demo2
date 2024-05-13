@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
 @RestController
-@RequestMapping("/v1")
+@RequestMapping("/users/v1")
 public class UserController {
 
     private final UserService userService;
