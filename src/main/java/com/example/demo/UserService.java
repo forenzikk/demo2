@@ -1,6 +1,6 @@
 package com.example.demo;
 
-import com.example.demo.User;
+import org.apache.catalina.User;
 import org.springframework.stereotype.Service;
 
 @Service
